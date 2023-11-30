@@ -1,0 +1,10 @@
+﻿  Source.cpp
+D:\VISUAL\3erParcial_BalderasEscobedo061\3erParcial_BalderasEscobedo061\Source.cpp(197,23): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+D:\VISUAL\3erParcial_BalderasEscobedo061\3erParcial_BalderasEscobedo061\Source.cpp(211,27): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+D:\VISUAL\3erParcial_BalderasEscobedo061\3erParcial_BalderasEscobedo061\Source.cpp(224,28): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+D:\VISUAL\3erParcial_BalderasEscobedo061\3erParcial_BalderasEscobedo061\Source.cpp(232,28): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+D:\VISUAL\3erParcial_BalderasEscobedo061\3erParcial_BalderasEscobedo061\Source.cpp(242,27): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+D:\VISUAL\3erParcial_BalderasEscobedo061\3erParcial_BalderasEscobedo061\Source.cpp(243,34): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+D:\VISUAL\3erParcial_BalderasEscobedo061\3erParcial_BalderasEscobedo061\Source.cpp(258,20): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+D:\VISUAL\3erParcial_BalderasEscobedo061\3erParcial_BalderasEscobedo061\Source.cpp(294,23): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+  3erParcial_BalderasEscobedo061.vcxproj -> D:\VISUAL\3erParcial_BalderasEscobedo061\x64\Debug\3erParcial_BalderasEscobedo061.exe
